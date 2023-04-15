@@ -9,8 +9,8 @@ regular shape with respect to animals, which suggests a "more regular and less r
 A note: this approach uses supervised machine learning model (the neural network has to classify sequences according to their host species) and so this method to represent protein sequences is enriched with prior biological knowledge.
 This same concept is widely exploited and examinated in the article *Learning the protein language: Evolution, structure, and function* by Tristan Bepler and Bonnie Berger.
 
-# Contents
+## Contents
 
-# Software
+## Software
 
-# Data
+## Data
