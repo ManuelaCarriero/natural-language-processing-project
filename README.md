@@ -13,8 +13,5 @@ This same concept is widely exploited and examinated in the article *Learning th
 * [ProteinSequencesNLP_ManuelaCarriero.pdf](https://github.com/ManuelaCarriero/natural-language-processing-project/blob/main/ProteinSequencesNLP_ManuelaCarriero.pdf) has all the theoretical concepts explained which are exploited for the analysis and the relative analysis and discussion.
 * [ProteinSequencesNLP_ManuelaCarriero.ipynb](https://github.com/ManuelaCarriero/natural-language-processing-project/blob/main/ProteinSequencesNLP_ManuelaCarriero.ipynb) and [ProteinSequencesNLP_ManuelaCarriero.html](https://github.com/ManuelaCarriero/natural-language-processing-project/blob/main/ProteinSequencesNLP_ManuelaCarriero.html) reports the python code used. 
 
-## Software
-Python 3.9
-
 ## Data
 The protein sequences data analysed ([cov_all.fa](https://github.com/ManuelaCarriero/natural-language-processing-project/blob/main/cov_all.fa)) were available in https://github.com/brianhie/viral-mutation.
