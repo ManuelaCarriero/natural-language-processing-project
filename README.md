@@ -14,3 +14,4 @@ This same concept is widely exploited and examinated in the article *Learning th
 ## Software
 
 ## Data
+The protein sequences data analysed ([cov_all.fa](https://github.com/ManuelaCarriero/natural-language-processing-project/blob/main/cov_all.fa)) were available in https://github.com/brianhie/viral-mutation.
